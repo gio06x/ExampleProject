@@ -1,2 +1,2 @@
 this is a line of text.
-change made in local repository.
+change has been made.
