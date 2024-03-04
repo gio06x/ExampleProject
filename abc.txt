@@ -1,2 +1,2 @@
 this is a line of text.
-something has been made different.
+change has been made.
